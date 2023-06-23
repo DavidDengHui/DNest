@@ -27,6 +27,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
-    "update": "^0.4.2"
+    "update": "^0.7.4"
   }
 }
